@@ -1,0 +1,27 @@
+.body{
+    background-color: rgb(31, 22, 22);
+    
+}
+ 
+
+.abelo {
+  background-color:rgb(48, 56, 56) ;
+  height: 90vh;
+  width: 70vh;
+  margin-left: 500px;
+  padding-top: 100px;
+  border-radius: 15px;
+  text-align: center ;
+  color: white;
+  
+}
+.submit button { 
+    background-color:orange;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.btn{
+  border-radius: 50%;  
+    
+}
